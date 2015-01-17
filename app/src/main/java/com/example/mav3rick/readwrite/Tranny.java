@@ -364,7 +364,7 @@ public class Tranny {
 
         List attributelist = new ArrayList(5);
 
-        List values = new ArrayList(5);
+        List values = new ArrayList(3);
 
         values.add("sunny");
         values.add("overcast");
